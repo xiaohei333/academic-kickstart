@@ -67,6 +67,7 @@ education:
     date_end: 2025-06-30
     summary: |
       **Research direction**: Super-resolution Microscopy
+      
       Advanced optical imaging techniques based on confocal microscopy and single-molecule localization microscopy for nanoscale biological visualization.
 
       **Key Research Areas**: 
