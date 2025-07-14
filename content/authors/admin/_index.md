@@ -125,8 +125,7 @@ skills:
       - name: Optical Microscopy
         description: 'Familiar with vectorial diffraction theory; experienced in building widefield, confocal, and MINFLUX systems.'
         percent: 90
-        icon: icons/microscope
-        icon_pack: custom
+        icon: microphone
       - name: SQL
         description: ''
         percent: 40
