@@ -122,10 +122,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+      - name: Optical Microscopy
+        description: 'Familiar with vectorial diffraction theory; experienced in building widefield, confocal, and MINFLUX systems.'
+        percent: 90
+        icon: microscope
       - name: SQL
         description: ''
         percent: 40
